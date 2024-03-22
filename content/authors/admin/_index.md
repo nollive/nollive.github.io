@@ -39,7 +39,7 @@ education:
       institution: Technical University of Denmark - DTU
       year: 2024-2026 (future)
     - course: MSc. in Bioinformatics
-      institution: Ecole centrale de nantes
+      institution: Ecole centrale de Nantes
       year: 2023
     - course: BSc in Engineering
       institution: Ecole centrale de Nantes
