@@ -67,8 +67,8 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Aix-en-Provence, France
-          date_start: '2023-06'
-          date_end: '2023-08'
+          date_start: '2023-06-01'
+          date_end: '2023-08-01'
           description: |2-
               
               * Deployment and continuous improvement of traffic measurement sensors and data analysis
@@ -81,8 +81,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          date_start: '2022-09-01'
+          date_end: '2023-06-01'
           description: 6-month project with the Insurance department of SNCF to create a damages calculation tool to identify and determine the costs of various damages incurred by SNCF
     design:
       columns: '2'
@@ -129,7 +129,7 @@ sections:
   #         url: ''
   #   design:
   #     columns: '2'
-  
+
   # - block: collection
   #   id: posts
   #   content:
