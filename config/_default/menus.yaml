@@ -13,9 +13,9 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-    - name: CV
-      url: 'uploads/CV_GAUFRES.pdf'
-      weight: 50
+  - name: CV
+    url: 'uploads/CV_GAUFRES.pdf'
+    weight: 50
 
   # - name: Posts
   #   url: '#posts'
