@@ -65,7 +65,7 @@ sections:
         - title: Systems Management Assistant
           company: CEREMA Méditerranée
           company_url: ''
-          company_logo: org-gc
+          company_logo: 'static/uploads/cerema_logo.png'
           location: Aix-en-Provence, France
           date_start: '2023-06-01'
           date_end: '2023-08-01'
@@ -79,7 +79,7 @@ sections:
         - title: Project Manager
           company: SNCF - Centrale Nantes
           company_url: ''
-          company_logo: org-x
+          company_logo: 'static/uploads/sncf_logo.png'
           location: California
           date_start: '2022-09-01'
           date_end: '2023-06-01'
