@@ -35,15 +35,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSc. in Bioinformatics
+    - course: MSc. in Bioinformatics & Systems Biology
       institution: Technical University of Denmark - DTU
       year: 2024-2026 (future)
     - course: MSc. in Bioinformatics
-#       institution: Ecole centrale de Nantes
-#       year: 2023
-#     - course: BSc in Engineering
-#       institution: Ecole centrale de Nantes
-#       year: 2022
+      institution: Ecole centrale de Nantes
+      year: 2023
+    - course: BSc in Engineering
+      institution: Ecole centrale de Nantes
+      year: 2022
 
 # # Skills
 # # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
