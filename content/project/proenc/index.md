@@ -10,7 +10,7 @@ date: '2023-09-01T00:00:00Z'
 # external_link: 'https://github.com/nollive/PROENC'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Exemple of Differencial Expression Analysis made
   focal_point: Smart
 
 links:
