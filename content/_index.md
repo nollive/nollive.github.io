@@ -65,10 +65,10 @@ sections:
         - title: Research Assistant
             company: Conservatoire national des arts et métiers - Institut Pasteur
             company_url: ''
-            # company_logo: uploads/cerema_logo.png
+            # company_logo: 
             location: Paris, France
             date_start: '2024-04-01'
-            date_end: '2023-08-16'
+            date_end: '2024-08-16'
             description: |2-
                 
                 * Epidemiological modeling
