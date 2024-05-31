@@ -63,16 +63,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-            company: Conservatoire national des arts et métiers - Institut Pasteur
-            company_url: ''
-            # company_logo: 
-            location: Paris, France
-            date_start: '2024-04-01'
-            date_end: '2024-08-16'
-            description: |2-
-                
-                * Epidemiological modeling
-                * Development of a mathematical model of pathogen transmission in a hospital respiratory department
+          company: Conservatoire national des arts et métiers - Institut Pasteur
+          company_url: ''
+          # company_logo: 
+          location: Paris, France
+          date_start: '2024-04-01'
+          date_end: '2024-08-16'
+          description: |2-
+            * Epidemiological modeling
+            * Development of a mathematical model of pathogen transmission in a hospital respiratory department
 
         - title: Systems Management Assistant
           company: CEREMA Méditerranée
