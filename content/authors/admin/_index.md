@@ -21,7 +21,7 @@ role: Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Ecole centrale de Nantes
-    #url: https://www.stanford.edu/
+    #url: https://www.ec-nantes.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Student in bioinformatics & system biology.
@@ -30,7 +30,6 @@ bio: Student in bioinformatics & system biology.
 interests:
   - Statistics
   - Machine Learning
-  - Data Mining
 
 # Education to show in About widget
 education:
