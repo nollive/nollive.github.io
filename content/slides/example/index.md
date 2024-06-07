@@ -1,6 +1,7 @@
 ---
 title: Slides
-summary: An introduction to using Hugo Blox Builder's Slides feature.
+draft: true
+summary: Slides
 authors: []
 tags: []
 categories: []
