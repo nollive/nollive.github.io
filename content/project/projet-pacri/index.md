@@ -33,7 +33,7 @@ url_video: ''
 # slides: example
 ---
 
-<div style="text-align: right"> Les infections respiratoires sont un problème majeur de santé publique en milieu hospitalier. Elles peuvent se transmettre de patient à patient, mais également entre patients et personnels soignants. On parle alors d’infection nosocomiale, ou acquise à l’hôpital. Ces infections contribuent à l’aggravation de l’état de santé des patients et à la complexification de leur prise en charge.
+<div style="text-align: justify"> Les infections respiratoires sont un problème majeur de santé publique en milieu hospitalier. Elles peuvent se transmettre de patient à patient, mais également entre patients et personnels soignants. On parle alors d’infection nosocomiale, ou acquise à l’hôpital. Ces infections contribuent à l’aggravation de l’état de santé des patients et à la complexification de leur prise en charge.
 
 La transmission des agents pathogènes peut se faire de différentes manières :
 • Par des gouttelettes de taille importante émises lors de la parole ou de la toux, pourraient conduire à une transmission à courte distance
