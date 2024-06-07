@@ -5,6 +5,7 @@ summary: Projet de recherche en effectué au sein du laboratoire MESuRs (Cnam) e
 tags:
   - Epidemiology
   - Modelization
+  - Bioinformatics
 date: '2024-04-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -32,22 +33,14 @@ url_video: ''
 # slides: example
 ---
 
-Les infections respiratoires sont un problème majeur de santé publique en milieu hospitalier. Elles
-peuvent se transmettre de patient à patient, mais également entre patients et personnels soignants.
-On parle alors d’infection nosocomiale, ou acquise à l’hôpital. Ces infections contribuent à
-l’aggravation de l’état de santé des patients et à la complexification de leur prise en charge.
+Les infections respiratoires sont un problème majeur de santé publique en milieu hospitalier. Elles peuvent se transmettre de patient à patient, mais également entre patients et personnels soignants. On parle alors d’infection nosocomiale, ou acquise à l’hôpital. Ces infections contribuent à l’aggravation de l’état de santé des patients et à la complexification de leur prise en charge.
 
 La transmission des agents pathogènes peut se faire de différentes manières :
-• Par des gouttelettes de taille importante émises lors de la parole ou de la toux, pourraient conduire
-à une transmission à courte distance
-• Par des aérosols de taille réduite émis lors de la respiration, pouvant rester en suspension dans
-l'air et pourraient entraîner une transmission à longue distance
 
-Une compréhension approfondie des rôles respectifs de ces modes de transmission est essentielle
-pour élaborer des stratégies efficaces de prévention des infections respiratoires nosocomiales. À ce
-jour, aucun modèle n'intègre simultanément ces deux modes de transmission, et l'importance relative
-de chacun reste à évaluer.
+• Par des gouttelettes de taille importante émises lors de la parole ou de la toux, pourraient conduire à une transmission à courte distance
 
-Le but de ce projet est de développer un modèle mathématique de la transmission de pathogènes
-respiratoires dans un service hospitalier, qui combine la transmission inter-individuelle (via un modèle
-épidémiologique) et la transmission par voie aérienne (via un modèle biophysique).
+• Par des aérosols de taille réduite émis lors de la respiration, pouvant rester en suspension dans l'air et pourraient entraîner une transmission à longue distance
+
+Une compréhension approfondie des rôles respectifs de ces modes de transmission est essentielle pour élaborer des stratégies efficaces de prévention des infections respiratoires nosocomiales. À ce jour, aucun modèle n'intègre simultanément ces deux modes de transmission, et l'importance relative de chacun reste à évaluer.
+
+Le but de ce projet est de développer un modèle mathématique de la transmission de pathogènes respiratoires dans un service hospitalier, qui combine la transmission inter-individuelle (via un modèle épidémiologique) et la transmission par voie aérienne (via un modèle biophysique).

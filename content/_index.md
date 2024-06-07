@@ -187,8 +187,6 @@ sections:
           tag: '*'
         - name: Bioinformatics
           tag: Bioinformatics
-        - name: Deep Learning
-          tag: Deep Learning
         - name: Other
           tag: Fun
     design:
