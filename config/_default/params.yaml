@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Olivier Gaufrès. This work is licensed under {license}'
+    notice: '© {year} Olivier Gaufrès, Forked from [**Academic Theme**](https://sourcethemes.com/academic/). This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
