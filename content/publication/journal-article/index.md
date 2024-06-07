@@ -1,6 +1,6 @@
 ---
-title: "An example journal article"
 draft: true
+title: "An example journal article"
 authors:
 - admin
 - Robert Ford
