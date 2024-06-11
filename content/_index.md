@@ -65,7 +65,7 @@ sections:
         - title: Research Assistant
           company: Conservatoire national des arts et métiers - Institut Pasteur
           company_url: ''
-          # company_logo: 
+          company_logo: 'uploads/logo-institutpasteur'
           location: Paris, France
           date_start: '2024-04-01'
           date_end: '2024-08-16'
