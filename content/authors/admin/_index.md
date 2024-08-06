@@ -28,13 +28,15 @@ bio: Student in bioinformatics & system biology.
 
 # Interests to show in About widget
 interests:
+  - Mathematical modelling
   - Statistics
   - Machine Learning
+  - Infectious disease dynamics
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc. in Bioinformatics & Systems Biology
+    - course: MSc. in Bioinformatics & Systems Biology\Specialization in Infectious Disease Health Informatics
       institution: Technical University of Denmark - DTU
       year: 2024-2026 (future)
     - course: MSc. in Bioinformatics
