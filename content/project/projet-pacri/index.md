@@ -1,6 +1,6 @@
 ---
-title: Projet Pacri - Modélisation de la transmission des maladies respiratoires en milieu hospitalier
-summary: Projet de recherche en effectué au sein du laboratoire MESuRs (Cnam) et l'unité EMEA (Institut Pasteur) à Paris portant sur développer un modèle mathématique de la transmission de pathogènes respiratoires dans un service hospitalier, qui combine la transmission inter-individuelle (via un modèle épidémiologique) et la transmission par voie aérienne (via un modèle biophysique).
+title: Pacri Projet - Modeling the transmission of respiratory diseases in hospitals - coupling contact and environmental transmission
+summary: Research project carried out at the MESuRs laboratory (Cnam) and the EMEA unit (Institut Pasteur) in Paris to develop a mathematical model of respiratory pathogen transmission in a hospital setting, combining inter-individual transmission and airborne indirect transmission.
 
 tags:
   - Epidemiology
@@ -33,14 +33,16 @@ url_video: ''
 # slides: example
 ---
 
-<div style="text-align: justify"> Les infections respiratoires sont un problème majeur de santé publique en milieu hospitalier. Elles peuvent se transmettre de patient à patient, mais également entre patients et personnels soignants. On parle alors d’infection nosocomiale, ou acquise à l’hôpital. Ces infections contribuent à l’aggravation de l’état de santé des patients et à la complexification de leur prise en charge.
+<div style="text-align: justify"> Respiratory infections in hospital settings represent a major public health issue, with a risk of transmission not only between patients but also between patients and healthcare workers. These infections contribute to the worsening of patients’ health conditions and complicate their management.
+The transmission of respiratory pathogens can occur in several ways:
 
-La transmission des agents pathogènes peut se faire de différentes manières :
+• Through large droplets, emitted while speaking or coughing, which can lead to short-range
+transmission.
+• Through small aerosols, produced when breathing, which can remain suspended in the air and cause long-range transmission.
 
-• Par des gouttelettes de taille importante émises lors de la parole ou de la toux, pourraient conduire à une transmission à courte distance
-• Par des aérosols de taille réduite émis lors de la respiration, pouvant rester en suspension dans l'air et pourraient entraîner une transmission à longue distance
+We developed an agent-based stochastic model that integrates individuals interaction and location data to simulate epidemics of respiratory pathogens in hospital settings. This model accounts for both close-contact transmission between individuals and indirect transmission through pathogen- ladden aerosols in the environment.
+This model was applied to a dataset of interactions collected in an intensive care unit as part of the NODS-CoV-2 study. We explored different levels of contribution from transmission modes to quantify variations in epidemic dynamics. 
+We observed significant variability in the dynamics of infections depending on the categories of individuals and the levels of contribution of the transmission modes. These results highlight the potential of this model to examine the impact of respiratory pathogens in hospital settings and the importance of considering individual behaviors and spatial factors in epidemic modeling. This approach offers a new perspective on managing respiratory infections in hospitals and could be adapted to other datasets.
 
-Une compréhension approfondie des rôles respectifs de ces modes de transmission est essentielle pour élaborer des stratégies efficaces de prévention des infections respiratoires nosocomiales. À ce jour, aucun modèle n'intègre simultanément ces deux modes de transmission, et l'importance relative de chacun reste à évaluer.
-
-Le but de ce projet est de développer un modèle mathématique de la transmission de pathogènes respiratoires dans un service hospitalier, qui combine la transmission inter-individuelle (via un modèle épidémiologique) et la transmission par voie aérienne (via un modèle biophysique).
+Keywords— respiratory pathogens, hospital setting, epidemiology, agent-based modeling, public-health
  </div>

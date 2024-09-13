@@ -39,7 +39,7 @@ education:
     - course: MSc. in Bioinformatics & Systems Biology
         Specialization in Infectious Disease Health Informatics
       institution: Technical University of Denmark - DTU
-      year: 2024-2026 (future)
+      year: 2024-2026
     - course: MSc. in Bioinformatics
       institution: Ecole centrale de Nantes
       year: 2023
