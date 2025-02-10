@@ -1,6 +1,6 @@
 ---
 title: PROENC - Transcriptomique de la compliance aux immunosuppresseurs
-summary: Projet de recherche en collaboration avec le CR2TI à Nantes portant sur la transcriptomique de l'adhérence d'un patient ayant sous traitement immunosuppresseur suite à une greffe de rein.
+summary: Student Research project in collaboration with CR2TI in Nantes on the transcriptomics of adherence in a patient undergoing immunosuppressive treatment following a kidney transplant.
 
 tags:
   - Bioinformatics
@@ -10,7 +10,7 @@ date: '2023-09-01T00:00:00Z'
 # external_link: 'https://github.com/nollive/PROENC'
 
 image:
-  caption: Exemple of Differencial Expression Analysis made
+  caption: Example of Differencial Expression Analysis made
   focal_point: Smart
 
 links:
@@ -31,4 +31,4 @@ url_video: ''
 # slides: example
 ---
 
-Ce projet a pour but de développer un score clinique basé une analyse transcriptomique pour determiner si un patient suit son traitement immunosuppreseur ou non. Nous nous baserons sur diverses études liées à la transplantation rénale.
+This project aims to develop a clinical score based on transcriptomic analysis to determine whether or not a patient is adhering to immunosuppressive therapy and if it is related to operational tolerance. It is based on studies related to kidney transplantation and operational tolerance.

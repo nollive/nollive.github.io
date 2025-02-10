@@ -8,7 +8,7 @@ date: '2024-03-01T00:00:00Z'
 
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Example of mosaic created with the scraped profile pictures
   focal_point: Smart
 
 links:
